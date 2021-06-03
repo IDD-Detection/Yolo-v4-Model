@@ -1,0 +1,5 @@
+classes = 15
+train  = /home/rohit.saluja/yolov4/dataidd/trainAll
+valid  = /home/rohit.saluja/yolov4/dataidd/valAll
+names = /home/rohit.saluja/yolov4/idd.names
+backup = /ssd_scratch/cvit/rohit/backupidd/
